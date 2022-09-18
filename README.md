@@ -42,7 +42,7 @@
     - Reverse ReActive Energy tariff 3 R3-(KWh)
     <br>
     <br>
-    With this project we will know how about the Power data will be use in Power Company !
+    With this project we will know how about the Power data will be use in Power Company. It will clear how to analyze and evaluate the accuracy of data, detect electrical fraud, detect abnormal data if any... !
 </p>
 
 ## Installation

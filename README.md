@@ -23,11 +23,11 @@
     <br>
     - Forward Active Energy tariff 3 A3+(KWh)
     <br>
-    - Forward ReActive Energy tariff 1 R1+(KWh)
+    - Forward ReActive Energy tariff 1 R1+(Kvarh)
     <br>
-    - Forward ReActive Energy tariff 2 R2+(KWh)
+    - Forward ReActive Energy tariff 2 R2+(Kvarh)
     <br>
-    - Forward ReActive Energy tariff 3 R3+(KWh)
+    - Forward ReActive Energy tariff 3 R3+(Kvarh)
     <br>
     - Reverse Active Energy tariff 1 A1-(KWh)
     <br>
@@ -35,11 +35,11 @@
     <br>
     - Reverse Active Energy tariff 3 A3-(KWh)
     <br>
-    - Reverse ReActive Energy tariff 1 R1-(KWh)
+    - Reverse ReActive Energy tariff 1 R1-(Kvarh)
     <br>
-    - Reverse ReActive Energy tariff 2 R2-(KWh)
+    - Reverse ReActive Energy tariff 2 R2-(Kvarh)
     <br>
-    - Reverse ReActive Energy tariff 3 R3-(KWh)
+    - Reverse ReActive Energy tariff 3 R3-(Kvarh)
     <br>
     <br>
     With this project we will know how about the Power data will be use in Power Company. It will clear how to analyze and evaluate the accuracy of data, detect electrical fraud, detect abnormal data if any... !
@@ -57,4 +57,5 @@
 - Reverse Energy
 
 **CRISP_DM**
-- Data Analysis
+- Tools Folder
+- Data Analysis file

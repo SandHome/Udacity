@@ -69,3 +69,6 @@
 - To more detail about <a href="https://en.wikipedia.org/wiki/Automatic_meter_reading">AMI SYSTEM</a>
 - To more detail about <a href="https://www.gartner.com/it-glossary/advanced-metering-infrastructure-ami">Advanced Metering Infrastructure (AMI)</a>
 - To understanding about <a href="https://en.wikipedia.org/wiki/Smart_meter#Advanced_metering_infrastructure">Advanced Metering Infrastructure (AMI)</a>
+
+## Blog post
+- <a href="https://cosandsofts.blogspot.com/2022/09/power-usage-data-analysis.html"> Click here to go to my blog post</a>

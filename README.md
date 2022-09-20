@@ -59,3 +59,15 @@
 **CRISP_DM**
 - Tools Folder
 - Data Analysis file
+
+## Licensing, Authors
+- This project is public that can be used by any one have the <a href="https://github.com/SandHome/Writing-a-Data-Scientist-Blog-Post">LINK</a> of this project
+- Authors : Vũ. Phạm Thế (MR)
+
+## References
+- To more detail about <a href="https://en.wikipedia.org/wiki/Smart_meter">SMART METER</a>
+- To more detail about <a href="https://en.wikipedia.org/wiki/Automatic_meter_reading">AMI SYSTEM</a>
+- To more detail about <a href="https://www.gartner.com/it-glossary/advanced-metering-infrastructure-ami">Advanced Metering Infrastructure (AMI)</a>
+- To understanding about <a href="https://en.wikipedia.org/wiki/Smart_meter#Advanced_metering_infrastructure">Advanced Metering Infrastructure (AMI)</a>
+- To more detail about <a href="https://www.ferc.gov/CalendarFiles/20070423091846-EPRI%20-%20Advanced%20Metering.pdf">The Components of Advanced Metering Infrastructure (AMI)</a>
+- To more detail about <a href="https://www.smartgrid.gov/files/NIST_SG_Interop_Report_Postcommentperiod_version_200808.pdf">What are the Benefits of AMI?</a>
